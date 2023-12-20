@@ -1,6 +1,12 @@
-## About Us
+## About Us ✨
 
-BIGmama is a startup from Algeria 🇩🇿. We're on a mission to democratize access to AI. 🤖✨
+BIGmama is a startup from Algeria 🇩🇿. We're on a mission to democratize access to AI. 🤖
+
+## Our mission
+
+## What we are building 💪
+
+## How we work 🏎 
 
 ## Join us
 We are always on the look for special humans and intelligent engineers

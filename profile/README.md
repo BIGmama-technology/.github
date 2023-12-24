@@ -23,10 +23,14 @@ We are on a mission to prove to ourselves "Africans" and to the rest of the worl
 - We embrace a Git workflow for all teams : management, HR, design, AI, and software.
 - Sometimes we have experts, politicians and celebrities come have coffee with us. (Maybe its time to launch BIGmama podcast 🤔)
 
-# Join us
+# Join us ⚡️
 
 We are always on the look for special humans and intelligent engineers                                   
 if you are interested in what we do join us by contributing to one of our `Hiring-*` repos. 
+
+We offer a competitive salary, a great work environment, and a chance to work on platforms that will go brrrrr
+
+We believe in the potential of Algerian youth, if you are still a student dont hesitate to apply we will find a way to make it work. 😉 
 
 ## Open positions
 

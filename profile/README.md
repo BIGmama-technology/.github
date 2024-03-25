@@ -32,10 +32,12 @@ We offer a competitive salary, a great work environment, and a chance to work on
 
 We believe in the potential of Algerian youth, if you are still a student dont hesitate to apply we will find a way to make it work. 😉 
 
-## Open positions
+## Current positions
 
 | Job Title           | Type               | Tasks                                          | Requirements                                                       |
 |---------------------|--------------------|------------------------------------------------|--------------------------------------------------------------------|
 | AI Engineer         | Full-time/Intern   | Build prototypes using open-source models<br> Conduct state-of-the-art reviews<br> Build different fine-tuning pipelines for LLMs<br> Work on data collection and preparation<br> Monitor training and ML experiences<br> Add AI models to Hyko.ai | Strong programming skills in Python<br> Fluency in speaking  `pytorch`<br> Solid understading of how LLMs work<br> Experience with deploying models<br>|
 | Front-end Developer | Full-time/Intern   | Stay updated with new frameworks and features<br> Enhance and optimize our platform's frontend<br> Build new frontends for our AI solutions prototypes<br> Collaborate with design and backend teams to develop new features | Solid Javascript/Typescript knowledge. <br/> Familiarity with latest Javascript frameworks (React, Vue ...). <br/> Ready to jump on new tech at any time. |
 | Backend Engineer    | Full-time/Intern   |  Develop robust backend systems and APIs<br> Optimize system performance and scalability<br> Collaborate closely with frontend and AI teams for seamless integration <br/> Contribute to database design and maintenance | Solid understanding of how the web works (http, dns, proxies ...) <br/> Being familiar with backend languages (python, golang, javascript...) <br> Experience with using Docker and docker-compose (networking, volumes..) <br/> |
+
+**Our response to your application may be delayed. We appreciate your patience and understanding.**
